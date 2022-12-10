@@ -5,7 +5,7 @@
 <head>
 	<style>
 		table {
-			border-collapse: collapse;
+			border-collapse: cllapse;
 			background: white;
 			color: black;
 		}
